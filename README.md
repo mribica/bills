@@ -1,7 +1,7 @@
 # Bills
 
 Command-line utility expenses tracker supporting providers in Bosnia and Herzegovina.
-Since most of these providers are not implementing developer friendly REST API there are different http client implementations ranging from scraping html pages to consuming REST API.
+Since most of these providers are not implementing developer-friendly REST API there are different HTTP client implementations ranging from scraping HTML pages to consuming REST API.
 
 ![Demo](example/demo.gif)
 
@@ -20,4 +20,4 @@ $ ./bills
 
 # Configuration and Credentials
 
-Bills is expecting to have providers configuration at $HOME/.bills/providers.json. Use [example-providers.json](example/example-providers.json) as a reference for supported providers and required credentials. If you are not using some providers from the example file just remove it from the configuration file and it will not be included in the report.
+bills app is expecting to have providers configuration at $HOME/.bills/providers.json. Use [example-providers.json](example/example-providers.json) as a reference for supported providers and required credentials. If you are not using some providers from the example file just remove them from the configuration file and they will not be included in the report.
