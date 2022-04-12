@@ -1,0 +1,28 @@
+[
+    {
+        "Type": "Toplane",
+        "Data": {
+            "CustomerId": "YOUR CUSTOMER ID"
+        }
+    },
+    {
+        "Type": "Telemach",
+        "Data": {
+            "Username": "YOUR USERNAME",
+            "Password": "YOUR PASSWORD",
+
+            "__note__": "Fields bellow are reverse engineered from the web client. Don't change if you are not sure.",
+            "AESPassphrase": "xD8iMq1!m94z",
+            "ApplicationToken": "Basic d2Vic2N1c2VyOms0bWQ5MyFrMzM0ZjM=",
+            "ApplicationId": "j4l",
+            "SiteId": "TBA"
+        }
+    },
+    {
+        "Type": "Ep",
+        "Data": {
+            "Username": "YOUR USERNAME",
+            "Password": "YOUR PASSWORD"
+        }
+    }
+]
